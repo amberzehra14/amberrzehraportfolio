@@ -106,7 +106,7 @@ h2 { margin: 0; font-family: var(--serif); font-size: clamp(38px, 5vw, 57px); fo
 .skill-card:hover { transform: translateY(-4px); border-color: rgba(189,133,133,.45); box-shadow: 0 13px 28px rgba(112,86,83,.07); }
 .skill-card-top { display: flex; align-items: flex-start; justify-content: space-between; }
 .skill-monogram { width: 42px; height: 42px; display: grid; place-items: center; border-radius: 50%; background: var(--blush); color: var(--muted-rose); font-family: var(--serif); font-size: 17px; }
-.skill-html, .skill-js { font-family: var(--sans); font-size: 12px; font-weight: 600; }
+.skill-html, .skill-ai { font-family: var(--sans); font-size: 12px; font-weight: 600; }
 .skill-css { font-size: 22px; }
 .skill-number { color: #b6a49e; font-size: 8px; letter-spacing: .1em; }
 .skill-card h3 { margin: 20px 0 1px; font-family: var(--serif); font-size: 20px; font-weight: 500; }
